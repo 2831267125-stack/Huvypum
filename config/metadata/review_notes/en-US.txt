@@ -1,0 +1,7 @@
+Huvypum is a local music performance clip board.
+
+Main path: agree on Welcome, then Board. ATT appears right after entering the main tabs, then notifications about 3 seconds later. Camera is used when you tap Record in Booth. Photos is used when you tap Photos in Booth or change the photo on Me. Microphone is used when you tap Voice note on the liner-note field, and when you tap Record so the performance clip keeps the room sound.
+
+This app uses consumable in-app purchases. Users buy Spotlights in the store (Me → Store). Spotlights are spent when the user confirms saving a finished performance clip with a liner note. Purchases are consumable and stay on this device.
+
+This app includes user-generated content. We provide content filtering, reporting, user blocking, a way to contact the developer, and community guidelines. Users can report content or profiles and block other users. We remove content that violates our guidelines or the App Store Guidelines.

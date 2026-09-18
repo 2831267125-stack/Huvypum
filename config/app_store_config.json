@@ -1,0 +1,189 @@
+{
+  "images_root": "images",
+  "app": {
+    "bundle_id": "com.huvypum.ios",
+    "download_price": "free",
+    "price_territory": "USA",
+    "content_rights": "no_third_party"
+  },
+  "app_info_localizations": [
+    {
+      "locale": "en-US",
+      "name": "Huvypum",
+      "subtitle": "Keep the stage take",
+      "privacyPolicyUrl": "https://huvypum-agreements.surge.sh/privacy-policy.html"
+    }
+  ],
+  "version": {
+    "version_string": "1.0",
+    "platform": "IOS",
+    "localizations": [
+      {
+        "locale": "en-US",
+        "description_file": "metadata/descriptions/en-US.txt",
+        "keywords": "music,stage,clip,concert,jazz,indie,performance,board",
+        "support_url": "https://huvypum-agreements.surge.sh/user-agreement.html"
+      }
+    ]
+  },
+  "screenshots": {
+    "base_folder": "screenshots",
+    "locales": {
+      "en-US": {
+        "iphone_65": [
+          "plqxwnr_01.png",
+          "plqxwnr_02.png",
+          "plqxwnr_03.png",
+          "plqxwnr_04.png",
+          "plqxwnr_05.png"
+        ]
+      }
+    }
+  },
+  "iap_products": [
+    {
+      "product_id": "com.huvypum.iap.t4k9qm",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 1",
+      "review_note": "",
+      "price_usd": "0.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 1",
+          "description": "Spotlight Pack 1"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.b7n2xw",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 2",
+      "review_note": "",
+      "price_usd": "2.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 2",
+          "description": "Spotlight Pack 2"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.c8p5zd",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 3",
+      "review_note": "",
+      "price_usd": "4.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 3",
+          "description": "Spotlight Pack 3"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.f1r6yh",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 4",
+      "review_note": "",
+      "price_usd": "9.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 4",
+          "description": "Spotlight Pack 4"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.g3s8vk",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 5",
+      "review_note": "",
+      "price_usd": "19.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 5",
+          "description": "Spotlight Pack 5"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.h5u0lm",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 6",
+      "review_note": "",
+      "price_usd": "29.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 6",
+          "description": "Spotlight Pack 6"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.j9w2nd",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 7",
+      "review_note": "",
+      "price_usd": "49.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 7",
+          "description": "Spotlight Pack 7"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    },
+    {
+      "product_id": "com.huvypum.iap.k2y4pe",
+      "type": "consumable",
+      "reference_name": "Spotlight Pack 8",
+      "review_note": "",
+      "price_usd": "99.99",
+      "price_territory": "USA",
+      "available_in_all_territories": true,
+      "localizations": [
+        {
+          "locale": "en-US",
+          "name": "Spotlight Pack 8",
+          "description": "Spotlight Pack 8"
+        }
+      ],
+      "review_screenshot_folder": "iap_review",
+      "submit_for_review": true
+    }
+  ]
+}
